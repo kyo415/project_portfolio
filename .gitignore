@@ -21,3 +21,7 @@ build/
 # Editor
 .vscode/
 .idea/
+
+# Postman local config (khong phai code du an)
+.postman/
+postman/
